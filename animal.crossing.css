@@ -1,4 +1,11 @@
 body{
+    
     background-color: rgb(183, 250, 183)
     ;
+}
+
+.tailleimage
+{
+    width : 150px
+heigth: 150px
 }
