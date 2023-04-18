@@ -1,3 +1,15 @@
+body{
+    
+    background-color: rgb(183, 250, 183)
+    ;
+}
+
+.tailleimage
+{
+    width : 150px
+heigth: 150px
+}
+
 body{background-color: rgb(181, 250, 181);}
 h1{color: white;}
 p{color: rgb(255, 106, 0);}
